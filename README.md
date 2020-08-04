@@ -2,6 +2,7 @@
 暑訓紀錄
 
 ## 問題與討論
+[詳見Notion筆記](https://www.notion.so/Questions-7f3cd98710ef47609426f37343baf1ca)
 #### 亂數DNN關於第一層Dense的維度理解
 
 
